@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosYovani
-- 👀 I’m interested in Full Stak Developer
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning  Python, JavaScript and GO 
-- 💞️ I’m looking to collaborate on applications development
+- 💞️ I’m looking to collaborate on applications development and Full Stack Developer
 - 📫 How to reach me carlos.munos@mercadolibre.com.mx
 
 <!---
