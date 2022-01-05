@@ -2,7 +2,7 @@
 - 👀 I’m interested in being full stack developer
 - 🌱 I’m currently learning  python, javascript and golang 
 - 💞️ I’m looking to collaborate on applications development and full stack developer
-- 📫 How to reach me carlos.munos@mercadolibre.com.mx
+- 📫 How to reach me carlos.munos@mercadolibre.com.mx  or https://www.linkedin.com/in/carlos-yovani-munoz-hernandez/
 
 <!---
 CarlosYovani/CarlosYovani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
